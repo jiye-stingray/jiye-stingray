@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 [![jiye-stingray's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiye-stingray&theme=chartreuse-jolly&show_icons=true)](https://github.com/jiye-stingray)
 
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
-<img src="https://jiye-stingray.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
