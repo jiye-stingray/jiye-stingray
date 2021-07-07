@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjiye-stingray2Fgjbae1212%2Fhit-counter&count_bg=%236188F6&title_bg=%23EE85F2&icon=&icon_color=%23E7E7E7&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&link=https://simpleicons.org/icons/c.svg)](https://replit.com/)
 
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=Unity&logoColor=white"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
