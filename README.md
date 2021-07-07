@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=jiye%20stingray&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=EE82EE&height=300&section=header&text=jiye%20stingray&fontSize=90&animation=fadeIn&fontAlignY=38&&fontColor=6495ED)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjiye-stingray2Fgjbae1212%2Fhit-counter&count_bg=%236188F6&title_bg=%23EE85F2&icon=&icon_color=%23E7E7E7&title=welcome&edge_flat=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiye-stingray)](https://github.com/jiye-stingray)
+[![jiye-stingray's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiye-stingray&theme=chartreuse-jolly&show_icons=true)](https://github.com/jiye-stingray)
 
 <!--
 **jiye-stingray/jiye-stingray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-[![jiye-stingray's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiye-stingray&theme=chartreuse-jolly&show_icons=true)](https://github.com/jiye-stingray)
+
 
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjiye-stingray2Fgjbae1212%2Fhit-counter&count_bg=%236188F6&title_bg=%23EE85F2&icon=&icon_color=%23E7E7E7&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=Unity&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
+</p>
