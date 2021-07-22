@@ -28,5 +28,5 @@ Here are some ideas to get you started:.
 <p align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=Unity&logoColor=white"/>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
+
 </p>
