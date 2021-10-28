@@ -20,8 +20,6 @@ Here are some ideas to get you started:.
 
 -->
 
-### I want be a Game Developer
-
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
