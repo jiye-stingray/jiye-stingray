@@ -23,7 +23,7 @@ Here are some ideas to get you started:.
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-6f00cc?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=Unity&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
